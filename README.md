@@ -13,7 +13,7 @@
  Startups are early-stage companies aiming for growth through innovation and market capture.
  Startups spend money on R&D, marketing, and administrative activities, but profits can vary widely. Predicting profit based on these expenditures can help companies make smarter financial decisions, optimize budgets, and improve investor confidence.
 
- ---
+  ---
 ### Data Columns :
 - **R&D Spend:** Investment in research and product innovation.
 
@@ -24,3 +24,9 @@
 - **State:** The location where the startup is based, which can impact costs and market access.
 
 - **Profit:** The net financial gain after subtracting all expenses.
+
+  ---
+## Requirements :
+ - Python 3.8+
+ - Dependencies listed in ```requirements.txt```
+ - Install dependencies using ```pip install -r requirements.txt```
